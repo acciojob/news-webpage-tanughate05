@@ -27,3 +27,12 @@ body{
   margin: 10px;
 	border-radius:20px;
 }
+.container3{
+	background-color: white;
+	display:inline-block;
+  width: 170px;
+  border: 0px none;
+  padding: 25px;
+  margin: 10px;
+	border-radius:20px;
+}
